@@ -1,12 +1,11 @@
 <?php
-
 	include_once '../../config.php';	
 	session_start();
 	$firstname = $_POST['first_name'];
 	$lastname = $_POST['last_name'];
 	$email = $_POST['email'];
-	$password = md5($_POST['password']);
-	$confirm_password = md5($_POST['confirm-password']);
+	$password = ($_POST['password']);
+	$confirm_password = ($_POST['confirm-password']);
 	$ret = [];
 
 	if (isset($_POST)) {

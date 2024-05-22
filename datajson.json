@@ -1,0 +1,517 @@
+{
+    "value": [{
+        "branchIds": [49, 28],
+        "branches": [{
+            "addressCity": "Andijon",
+            "addressCountry": "O'zbekiston",
+            "custom": "{\"address\":{\"en\":{\"address1\":\"170800, Andijan region, Markhamat distr.\",\"address2\":\"Markhamat city, MCA Dukchi eshan, Ipak yuli street 126\",\"city\":\"Andijan region\",\"country\":\"Uzbekistan\"},\"uz\":{\"address1\":\"170800, Andijon viloyati, Marxamat t.\",\"address2\":\"Marxamat sh., Dukchi eshon MFY, Ipak yoli kochasi, 126 uy\",\"city\":\"Andijon viloyati\",\"country\":\"O'zbekiston\"},\"ru\":{\"address1\":\"170800, Андижанская область, Мархаматский р.\",\"address2\":\"г.Мархамат, МСГ Дукчи Эшон, ул. Ипак йули, дом 126\",\"city\":\"Андижанская область\",\"country\":\"Узбекистан\"}},\"names\":{\"en\":\"Markhamat BSC\",\"uz\":\"Marxamat BXM\",\"ru\":\"Мархамат ЦБУ\"}}",
+            "id": "3e8a899f9237b5f9c2871f296244dae9e4bf33726d8924f27e86e4cc9eba0352",
+            "internalId": 100,
+            "name": "Andijon v, Marhamat BXM",
+            "qpId": "49",
+            "timeZone": "Asia/Tashkent"
+        }, {
+            "addressCity": "Andijon",
+            "addressCountry": "O'zbekiston",
+            "custom": "{\"names\":{\"ru\":\"Асака ЦБУ\",\"en\":\"Asaka BSC\",\"uz\":\"Asaka BXM\"},\"address\":{\"en\":{\"address1\":\"170200, Andijan region, Asaka distr.\",\"address2\":\"Asaka city, MCA A.Temur, N. Kubro street 27a\",\"city\":\"Andijan region\",\"country\":\"Uzbekistan\"},\"ru\":{\"address1\":\"170200, Андижанская область, Асакинский р., г.Асака\",\"address2\":\"МСГ A.Темура, ул. Нажмиддина Кубро, дом 27a\",\"city\":\"Андижанская область\",\"country\":\"Узбекистан\"},\"uz\":{\"address1\":\"170200, Andijon vilolyati, Asaka t.\",\"address2\":\"Asaka sh., A.Temur MFY, N. Kubro kochasi, 27a uy\",\"city\":\"Andijon viloyati\",\"country\":\"O'zbekiston\"}}}",
+            "id": "e84d5c4907f4f110620a0b08939db548ee9f0563a0d1831e41bd18b024a1e529",
+            "internalId": 59,
+            "name": "Andijon v, Asaka BXM",
+            "qpId": "28",
+            "timeZone": "Asia/Tashkent"
+        }],
+        "fullName": "NBU/Andijon viloyati",
+        "id": 302,
+        "name": "Andijon viloyati",
+        "subGroupIds": []
+    }, {
+        "branchIds": [5, 37, 50],
+        "branches": [{
+            "addressCity": "Farg'ona",
+            "addressCountry": "O'zbekiston",
+            "custom": "{\"names\":{\"ru\":\"Фергана амалиёт ЦБУ\",\"en\":\"Fargona amaliyot BSC\",\"uz\":\"Farg‘ona amaliyot BXM\"},\"address\":{\"en\":{\"address1\":\"150103, Fergana region, Fergana city\",\"address2\":\"MCA Mashal, Al-Fergani street 35 \",\"city\":\"Fergana region\",\"country\":\"Uzbekistan\"},\"ru\":{\"address1\":\"150103, Ферганская область, г.Фергана\",\"address2\":\"МСГ Машъал, ул. Аль-Фергани, дом 35 \",\"city\":\"Ферганская область\",\"country\":\"Узбекистан\"},\"uz\":{\"address1\":\"150103, Fargona viloyati, Fargona sh.\",\"address2\":\"Mashal MFY, Al-Fargoniy kochasi, 35 uy \",\"city\":\"Farg‘ona viloyati\",\"country\":\"O'zbekiston\"}}}",
+            "id": "cd0f62b0bf83bc3ff906e20910fda8c06bbaa5d2345459ea8bac50a64b8071bf",
+            "internalId": 64,
+            "name": "Farg'ona v, Farg'ona amaliyot BXM",
+            "qpId": "5",
+            "timeZone": "Asia/Tashkent"
+        }, {
+            "addressCity": "Farg'ona",
+            "addressCountry": "O'zbekiston",
+            "custom": "{\"names\":{\"ru\":\"Риштан ЦБУ\",\"en\":\"Rishtan BSC\",\"uz\":\"Rishton BXM\"},\"address\":{\"en\":{\"address1\":\"151300, Fergana region, Rishtan distr., Rishtan city\",\"address2\":\"MCA Farovonlik, Roshidoni street 253\",\"city\":\"Fergana region\",\"country\":\"Uzbekistan\"},\"ru\":{\"address1\":\"151300, Ферганская область, Риштанский р., г.Риштан\",\"address2\":\"МСГ Фаровонлик, ул. Рошидоний, дом 253\",\"city\":\"Ферганская область\",\"country\":\"Узбекистан\"},\"uz\":{\"address1\":\"151300, Fargona viloyati, Rishton tumani, Rishton sh.\",\"address2\":\"Farovonlik MFY, Roshidoniy kochasi, 253 uy\",\"city\":\"Farg‘ona viloyati\",\"country\":\"O'zbekiston\"}}}",
+            "id": "a25122325fd434baf80e619e56b051b44cc91f49a41ed6c08c84590b33529257",
+            "internalId": 65,
+            "name": "Farg'ona v, Rishton BXM",
+            "qpId": "37",
+            "timeZone": "Asia/Tashkent"
+        }, {
+            "addressCity": "Farg'ona",
+            "addressCountry": "O'zbekiston",
+            "custom": "{\"address\":{\"en\":{\"address1\":\"150800, Fergana region, Kuva distr.\",\"address2\":\"Kuva city, MCA Galaba, Yassavi street 55\",\"city\":\"Fergana region\",\"country\":\"Uzbekistan\"},\"uz\":{\"address1\":\"150800, Fargona viloyati, Quva tumani, Quva sh.\",\"address2\":\"Galaba MFY, Yassaviy kochasi, 55 uy\",\"city\":\"Farg'ona viloyati\",\"country\":\"O'zbekiston\"},\"ru\":{\"address1\":\"150800, Ферганская область, Кувинский район, г.Кува\",\"address2\":\"МСГ Галаба, ул. Яссави, дом 55\",\"city\":\"Ферганская область\",\"country\":\"Узбекистан\"}},\"names\":{\"en\":\"Kuva BSC\",\"uz\":\"Quva BXM\",\"ru\":\"Кува ЦБУ\"}}",
+            "id": "8de642432a755e24748ce2f4d1461162a96afe787fbd3b4517bf161dcea5e7fe",
+            "internalId": 101,
+            "name": "Farg'ona v, Quva BXM",
+            "qpId": "50",
+            "timeZone": "Asia/Tashkent"
+        }],
+        "fullName": "NBU/Farg'ona viloyati",
+        "id": 306,
+        "name": "Farg'ona viloyati",
+        "subGroupIds": []
+    }, {
+        "branchIds": [54, 3],
+        "branches": [{
+            "addressCity": "Namangan",
+            "addressCountry": "Uzbekistan",
+            "custom": "{\"address\":{\"uz\":{\"address1\":\"160802, Namangan viloyati, Uychi t., Uychi sh.\",\"address2\":\"Beruniy MFY, Abu Rayhon Beruniy kochasi, 32 uy\",\"city\":\"Namangan viloyati\",\"country\":\"O'zbekiston\"},\"ru\":{\"address1\":\"160802,Наманганская область, р. Уйчи, г.Уйчи\",\"address2\":\"МСГ Беруни, ул. Абу Райхона Беруни, дом 32\",\"city\":\"Наманганская область\",\"country\":\"Узбекистан\"},\"en\":{\"address1\":\"160802, Namangan region, Uychi distr.\",\"address2\":\"Uychi city, MCA Beruni, Abu Raykhan Beruni street 32\",\"city\":\"Namangan region\",\"country\":\"Uzbekistan\"}},\"names\":{\"uz\":\"Uychi BXM\",\"ru\":\"Уйчи ЦБУ\",\"en\":\"Uychi BSC\"}}",
+            "id": "7b6eb6ee11dd332606be94d0a20dd69a1595298ec45c5d55284896f09be79340",
+            "internalId": 103,
+            "name": "Namangan v, Uychi BXM",
+            "qpId": "54",
+            "timeZone": "Asia/Tashkent"
+        }, {
+            "addressCity": "Namangan",
+            "addressCountry": "Uzbekistan",
+            "custom": "{\"names\":{\"ru\":\"Наманаган амалиёт ЦБУ\",\"en\":\"Namangan amaliyot BSC\",\"uz\":\"Namangan amaliyot BXM\"},\"address\":{\"en\":{\"address1\":\"160127, Namangan region, Namangan city\",\"address2\":\"MCA Tukuvchi, I.Karimov street 2\",\"city\":\"Namangan region\",\"country\":\"Uzbekistan\"},\"ru\":{\"address1\":\"160127, Наманганская область, г.Наманган\",\"address2\":\"МСГ Тукувчи, ул. И. Каримова, дом 2\",\"city\":\"Наманганская область\",\"country\":\"Узбекистан\"},\"uz\":{\"address1\":\"160127, Namangan viloyati, Namangan sh.\",\"address2\":\"Toquvchi MFY, I.Karimov Kochasi, 2-uy\",\"city\":\"Namangan viloyati\",\"country\":\"O'zbekiston\"}}}",
+            "id": "a18a68ba5ef4c693e2aa637512b9db34a6a6e02fd964ecbe0e0b9a621d72c267",
+            "internalId": 67,
+            "name": "Namangan v, Namangan amaliyot BXM",
+            "qpId": "3",
+            "timeZone": "Asia/Tashkent"
+        }],
+        "fullName": "NBU/Namangan viloyati",
+        "id": 350,
+        "name": "Namangan viloyati",
+        "subGroupIds": []
+    }, {
+        "branchIds": [9, 24, 15, 11, 12, 10, 41, 18, 23, 13, 17, 60, 14, 29, 48],
+        "branches": [{
+            "addressCity": "Toshkent",
+            "addressCountry": "O'zbekiston",
+            "addressLine1": "Bunyodkor ko'chasi, 28",
+            "addressLine2": "\"Chilonzor\" metro bekati",
+            "custom": "{\"names\":{\"ru\":\"Саёхат ЦБУ\",\"en\":\"Sayohat BSC\",\"uz\":\"Sayohat BXM\"},\"address\":{\"en\":{\"address1\":\"100185, Tashkent city, Chilanzar distr.\",\"address2\":\"MCA Nakkoshlik, Bunyodkor street 28А\",\"city\":\"Tashkent city\",\"country\":\"Uzbekistan\"},\"ru\":{\"address1\":\"100185, г.Ташкент, Чиланзарский р.\",\"address2\":\"МСГ Наккошлик, ул.Буньёдкор, дом 28А\",\"city\":\"город Ташкент\",\"country\":\"Узбекистан\"},\"uz\":{\"address1\":\"100185, Toshkent sh., Chilonzor tumani\",\"address2\":\"Naqqoshlik MFY, Bunyodkor kochasi, 28А uy\",\"city\":\"Toshkent shaxri\",\"country\":\"O'zbekiston\"}}}",
+            "email": "",
+            "id": "1bd2e0623f5e077258868217396298ff9111f841d9ef646e7a85cbce959dd284",
+            "internalId": 36,
+            "name": "Toshkent sh, Sayohat BXM",
+            "phone": "",
+            "qpId": "9",
+            "timeZone": "Asia/Tashkent"
+        }, {
+            "addressCity": "Tashkent",
+            "addressCountry": "Uzbekistan",
+            "custom": "{\"names\":{\"ru\":\"Учтепа ЦБУ\",\"en\":\"Uchtеpa BSC\",\"uz\":\"Uchtеpa BXM\"},\"address\":{\"en\":{\"address1\":\"100138, Tashkent city, Uchtepa distr., 13 quarter\",\"address2\":\"MCA Kokhna chapan-ata, Farkhad street 54\",\"city\":\"Tashkent city\",\"country\":\"Uzbekistan\"},\"ru\":{\"address1\":\"100138, г.Ташкент, Учтепинский р., 13 квартал\",\"address2\":\"МСГ Кохна Чапан-ота, ул. Фархадская, дом 54\",\"city\":\"город Ташкент\",\"country\":\"Узбекистан\"},\"uz\":{\"address1\":\" 100138, Toshkent sh., Uchtepa tumani, 13 mavze\",\"address2\":\"Kohna chopon-оta MFY, Farhod kochasi, 54 uy \",\"city\":\"Toshkent shaxri\",\"country\":\"O'zbekiston\"}}}",
+            "id": "bc3397523024209d7b8bfc4678322cc241b42a00cc21207ab7a17fd2e9d0680b",
+            "internalId": 53,
+            "name": "Toshkent sh, Uchtepa BXM",
+            "qpId": "24",
+            "timeZone": "Asia/Tashkent"
+        }, {
+            "addressCity": "Toshkent",
+            "addressCountry": "O'zbekiston",
+            "custom": "{\"names\":{\"ru\":\"Мирзо-Улугбек ЦБУ\",\"en\":\"Mirzo Ulugbеk BSC\",\"uz\":\"Mirzo Ulug‘bеk BXM\"},\"address\":{\"en\":{\"address1\":\"100015, Tashkent city, M.Ulugbek district\",\"address2\":\"MCA Asaka, Mustakillik street 66\",\"city\":\"Tashkent city\",\"country\":\"Uzbekistan\"},\"ru\":{\"address1\":\"100015, г.Ташкент, Мирзо-Улугбекский р.\",\"address2\":\"МСГ Асака, ул.Мустакиллик, дом 66\",\"city\":\"город Ташкент\",\"country\":\"Узбекистан\"},\"uz\":{\"address1\":\"100015, Toshkent sh., M.Ulugbek tumani\",\"address2\":\"Asaka MFY, Mustaqillik shox kochasi, 66 uy\",\"city\":\"Toshkent shaxri\",\"country\":\"O'zbekiston\"}}}",
+            "id": "7e6979875b40cfdd8904b227590a3ab2ea4b6395ba7637e68e90cbe2277167fd",
+            "internalId": 83,
+            "name": "Toshkent sh, Mirzo Ulug'bek BXM",
+            "qpId": "15",
+            "timeZone": "Asia/Tashkent"
+        }, {
+            "addressCity": "Toshkent",
+            "addressCountry": "O'zbekiston",
+            "custom": "{\"names\":{\"ru\":\"Яшнабад ЦБУ\",\"en\":\"Yashnabad BSC\",\"uz\":\"Yashnobod BXM\"},\"address\":{\"en\":{\"address1\":\"100047, Tashkent city, Yashnabad distr.\",\"address2\":\"MCA Tuy Tepa, Sadyk Azimov street 2А\",\"city\":\"Tashkent city\",\"country\":\"Uzbekistan\"},\"ru\":{\"address1\":\"100047, г.Ташкент, Яшнабадский р.\",\"address2\":\"МСГ Той тепа, 1-я ул. Садык Азимова, дом 2А\",\"city\":\"город Ташкент\",\"country\":\"УЗбекистан\"},\"uz\":{\"address1\":\"100047, Toshkent sh., Yashnobod tumani\",\"address2\":\"Toy Tepa MFY, Sodiq Azimov 1-tor kochasi, 2А uy\",\"city\":\"Toshkent\",\"country\":\"O'zbekiston\"}}}",
+            "id": "2ecae773ef1cf5eaed3eaf98bfc429ffe2dba2883736b32dca5709a7c3b689e2",
+            "internalId": 39,
+            "name": "Toshkent sh, Yashnobod BXM",
+            "qpId": "11",
+            "timeZone": "Asia/Tashkent"
+        }, {
+            "addressCity": "Toshkent",
+            "addressCountry": "O'zbekiston",
+            "custom": "{\"names\":{\"ru\":\"Сергели ЦБУ\",\"en\":\"Sеrgеli BSC\",\"uz\":\"Sеrgеli BXM\"},\"address\":{\"en\":{\"address1\":\"100085, Tashkent city, Sergeli distr.\",\"address2\":\"Sergeli 6, MCA Mekhrigiyo MFY, Dehkan bazaar \",\"city\":\"Tashkent city\",\"country\":\"Uzbekistan\"},\"ru\":{\"address1\":\"100085, г.Ташкент, Сергелийский р.\",\"address2\":\"Сергели-6, МСГ Мехригиё, Дехканский базар\",\"city\":\"город Ташкент\",\"country\":\"Узбекистан\"},\"uz\":{\"address1\":\"100085, Toshkent sh., Sergeli tumani\",\"address2\":\"Sergeli 6-daxasi, Mehrigiyo MFY, Dehqon bozor \",\"city\":\"Toshkent shaxri\",\"country\":\"O'zbekiston\"}}}",
+            "id": "3e6f70e07f49d111628a9257e858de49545b113f49e02f137e9d88d4f768ed07",
+            "internalId": 84,
+            "name": "Toshkent sh, Sergeli BXM",
+            "qpId": "12",
+            "timeZone": "Asia/Tashkent"
+        }, {
+            "addressCity": "Toshkent",
+            "addressCountry": "O'zbekiston",
+            "custom": "{\"names\":{\"ru\":\"Головной офис ЦБУ\",\"en\":\"Head office BSC\",\"uz\":\"Bosh ofis BXM\"},\"address\":{\"ru\":{\"address1\":\"100084, г.Ташкент, Юнусабадский р.\",\"address2\":\"МСГ Бодомзор, ул.Амира Темура, дом 101\",\"city\":\"город Ташкент\",\"country\":\"Узбекистан\"},\"en\":{\"address1\":\"100084, Tashkent city, Yunusabad distr.\",\"address2\":\"MCA Badamzar, Amir Temur street 101 \",\"city\":\"Tashkent city\",\"country\":\"Uzbekistan\"},\"uz\":{\"address1\":\"100084, Toshkent sh., Yunusobod t.\",\"address2\":\"Bodomzor MFY, Amir Temur tor kochasi, 101 uy \",\"city\":\"Toshkent shaxri\",\"country\":\"O'zbekiston\"}}}",
+            "id": "bb208fb24ef85e2c8a11532203014a1ab93c83cced73437d6ce72649d3c3006c",
+            "internalId": 14,
+            "name": "Toshkent sh, Bosh ofis BXM",
+            "qpId": "10",
+            "timeZone": "Asia/Tashkent"
+        }, {
+            "addressCity": "Toshkent",
+            "addressCountry": "O'zbekiston",
+            "custom": "{\"names\":{\"ru\":\"Главный операционный ЦБУ\",\"en\":\"Main operational BSC\",\"uz\":\"Bosh amaliyot BXM\"},\"address\":{\"ru\":{\"address1\":\"100060, г.Ташкент, Мирабадский р.\",\"address2\":\"МСГ Минг Урюк, ул.Я.Гулямова, дом 95\",\"city\":\"город Ташкент\",\"country\":\"Узбекистан\"},\"uz\":{\"address1\":\"100060, Toshkent sh., Mirobod tumani\",\"address2\":\"Ming Orik MFY, Ya.Gulyamov kochasi, 95 uy\",\"city\":\"Toshkent shaxri\",\"country\":\"O'zbekiston\"},\"en\":{\"address1\":\"100060, Tashkent city, Mirabad distr.\",\"address2\":\"MCA Ming Urik, Ya.Gulyamov street 95\",\"city\":\"Tashkent city\",\"country\":\"Uzbekistan\"}}}",
+            "id": "380d720071f187d4543030af35f1f1a54a8b1150e6d276e66d711a109c29ec2d",
+            "internalId": 95,
+            "name": "Toshkent sh, Bosh amaliyot BXM",
+            "qpId": "41",
+            "timeZone": "Asia/Tashkent"
+        }, {
+            "addressCity": "Toshkent",
+            "addressCountry": "O'zbekiston",
+            "custom": "{\"names\":{\"ru\":\"Мирабадское отделение \",\"en\":\"Mirabad branch\",\"uz\":\"Mirobod bo'limi\"},\"address\":{\"en\":{\"address1\":\"100005, Tashkent city, Mirabad distr.\",\"address2\":\"MCA Navruz, Abu Suleyman Banokatiy street 165 \",\"city\":\"Tashkent city\",\"country\":\"Uzbekistan\"},\"ru\":{\"address1\":\"100005, г.Ташкент, Мирабадский р.\",\"address2\":\"МСГ Навруз, ул. Абу Сулеймана Банокатий, дом 165 \",\"city\":\"город Ташкент\",\"country\":\"Узбекистан\"},\"uz\":{\"address1\":\" 100005, Toshkent sh., Mirobod tumani\",\"address2\":\"Navruz MFY, Abu Sulaymon Banokatiy kochasi, 165 uy \",\"city\":\"Toshkent shaxri\",\"country\":\"O'zbekiston\"}}}",
+            "id": "002a9cea85d29ee2ea62c669e88d397b7d03dba656861ee29d4f0289e7de2ea7",
+            "internalId": 82,
+            "name": "Toshkent sh, Mirobod BXM",
+            "qpId": "18",
+            "timeZone": "Asia/Tashkent"
+        }, {
+            "addressCity": "Toshkent",
+            "addressCountry": "O'zbekiston",
+            "addressLine1": "Toshkent sh, Mirobod tumani, Shevchenko 29",
+            "custom": "{\"names\":{\"ru\":\"Академия ЦБУ\",\"en\":\"Aсadеmiс BSC\",\"uz\":\"Akadеmiya BXM\"},\"address\":{\"en\":{\"address1\":\"100005, Tashkent city, Mirabad distr.\",\"address2\":\"MCA Salar, T.Shevchenko street 29\",\"city\":\"Tashkent city\",\"country\":\"Uzbekistan\"},\"ru\":{\"address1\":\"100005, г.Ташкент, Мирабадский р.\",\"address2\":\"МСГ Салар, ул. Тараса Шевченко, дом 29\",\"city\":\"город Ташкент\",\"country\":\"Узбекистан\"},\"uz\":{\"address1\":\"100005, Toshkent sh, Mirobod tumani\",\"address2\":\"Salar MFY, T.Shevchenko kochasi, 29 uy\",\"city\":\"Toshkent shaxri\",\"country\":\"O'zbekiston\"}}}",
+            "id": "f706dab8c6dc4e41b3966bf8140aac70e9d129f3bd8c588cd6717903c719d28a",
+            "internalId": 79,
+            "name": "Toshkent sh, Akademiya BXM",
+            "qpId": "23",
+            "timeZone": "Asia/Tashkent"
+        }, {
+            "addressCity": "Toshkent",
+            "addressCountry": "O'zbekiston",
+            "custom": "{\"names\":{\"ru\":\"Бектемир ЦБУ\",\"en\":\"Bеktеmir BSC\",\"uz\":\"Bеktеmir BXM\"},\"address\":{\"en\":{\"address1\":\"100158, Tashkent city, Bektemir distr.\",\"address2\":\"MCA X.Baykaro, X.Baykaro street 15  \",\"city\":\"Tashkent city\",\"country\":\"Uzbekistan\"},\"ru\":{\"address1\":\"100158, г.Ташкент, Бектемирский р.\",\"address2\":\"МСГ Х.Байкаро, ул.Х.Байкаро, дом 15  \",\"city\":\"город Ташкент\",\"country\":\"Узбекистан\"},\"uz\":{\"address1\":\"100158, Toshkent sh., Bektemir tumani\",\"address2\":\"X.Bayqaro MFY, X.Bayqaro kochasi, 15 uy  \",\"city\":\"Toshkent shaxri\",\"country\":\"O'zbekiston\"}}}",
+            "id": "6a30a5319ed4d62157ec075ae4ce51ef96261b492c67c4e98ef04bba8c97c9a4",
+            "internalId": 80,
+            "name": "Toshkent sh, Bektemir BXM",
+            "qpId": "13",
+            "timeZone": "Asia/Tashkent"
+        }, {
+            "addressCity": "Toshkent",
+            "addressCountry": "O'zbekiston",
+            "custom": "{\"names\":{\"ru\":\"Себзар амалиёт  ЦБУ\",\"en\":\"Sеbzar amaliyot BSC\",\"uz\":\"Sеbzor amaliyot BXM\"},\"address\":{\"en\":{\"address1\":\"100019, Tashkent city, Almazar distr.\",\"address2\":\"MCA Sebzar, Sebzar street 1\",\"city\":\"Tashkent city\",\"country\":\"Uzbekistan\"},\"ru\":{\"address1\":\"100019, г.Ташкент, Алмазарский район\",\"address2\":\"МСГ Себзор, ул. Себзар, дом 1\",\"city\":\"город Ташкент\",\"country\":\"Узбекистан\"},\"uz\":{\"address1\":\"100019, Toshkent sh., Olmazor tumani\",\"address2\":\"Sebzor MFY, Sebzor kochasi, 1 uy\",\"city\":\"Toshkent shaxri\",\"country\":\"O'zbekiston\"}}}",
+            "id": "d6b388bb2d1902ec2eade6418d9fbcdea787b84ab57f5f958b123a90b68c48f9",
+            "internalId": 81,
+            "name": "Toshkent sh, Sebzor amaliyot BXM",
+            "qpId": "17",
+            "timeZone": "Asia/Tashkent"
+        }, {
+            "custom": "{\"address\":{\"en\":{\"address1\":\"100037, Tashkent city, Yunusabad distr.\",\"address2\":\"MCA Bogi shamol, 11-quarter, 32а building\",\"city\":\"Tashkent city\",\"country\":\"Uzbekistan\"},\"uz\":{\"address1\":\"100037, Toshkent sh., Yunusobod tumani\",\"address2\":\"Bogi shamol MFY, 11-daxa, 32а uy\",\"city\":\"Toshkent shaxri\",\"country\":\"O'zbekiston\"},\"ru\":{\"address1\":\"100037, г.Ташкент, Юнусабадский р.\",\"address2\":\"МСГ Боги Шамол, 11 квартал, дом 32а\",\"city\":\"город Ташкент\",\"country\":\"Узбекистан\"}},\"names\":{\"en\":\"Yunusabad BSC\",\"uz\":\"Yunusobod BXM\",\"ru\":\"Юнусабад ЦБУ\"}}",
+            "id": "cc87e6162fce65abff3bc114a016704c03a50601faf975ca9940e6b3ff86b495",
+            "internalId": 107,
+            "name": "Toshkent sh, Yunusobod BXM",
+            "qpId": "60",
+            "timeZone": "Asia/Tashkent"
+        }, {
+            "addressCity": "Toshkent",
+            "addressCountry": "O'zbekiston",
+            "custom": "{\"names\":{\"ru\":\"Яккасарай ЦБУ\",\"en\":\"Yakkasaray BSC\",\"uz\":\"Yakkasaroy BXM\"},\"address\":{\"en\":{\"address1\":\"100090, Tashkent city, Yakkasaray distr.\",\"address2\":\"MCA Damaryk, Babur street 85\",\"city\":\"Tashkent city\",\"country\":\"Uzbekistan\"},\"ru\":{\"address1\":\"100090, г.Ташкент, Яккасарайский р.\",\"address2\":\"МСГ Дамарик, ул.Бабура, дом 85\",\"city\":\"город Ташкент\",\"country\":\"Узбекистан\"},\"uz\":{\"address1\":\"100090, Toshkent sh., Yakkasaroy tumani\",\"address2\":\"Damariq MFY, Bobur kochasi, 85 uy\",\"city\":\"Toshkent shaxri\",\"country\":\"O'zbekiston\"}}}",
+            "id": "915a163215ddbf5938109a5e86a3f3d4199ecda8313f23d2af216de9fc2bd3ea",
+            "internalId": 85,
+            "name": "Toshkent sh, Yakkasaroy BXM",
+            "qpId": "14",
+            "timeZone": "Asia/Tashkent"
+        }, {
+            "addressCity": "Toshkent",
+            "addressCountry": "O'zbekiston",
+            "addressLine1": "Toshkent, Yangiobod filiali",
+            "custom": "{\"names\":{\"ru\":\"Янгиабад ЦБУ\",\"en\":\"Yangiabad BSC\",\"uz\":\"Yangiobod BXM\"},\"address\":{\"en\":{\"address1\":\"100016, Tashkent sh., Yashnabad distr.\",\"address2\":\"MCA Kuksaray, Elbek street 28\",\"city\":\"Tashkent city\",\"country\":\"Uzbekistan\"},\"ru\":{\"address1\":\"100016, г.Ташкент, Яшнабадский р.\",\"address2\":\"МСГ Куксарай, ул. Эльбека, дом 28\",\"city\":\"город Ташкент\",\"country\":\"Узбекистан\"},\"uz\":{\"address1\":\"100016, Toshkent sh., Yashnobod tumani.\",\"address2\":\"Koksaroy MFY, Elbek kochasi, 28 uy\",\"city\":\"Toshkent shaxri\",\"country\":\"O'zbekiston\"}}}",
+            "id": "cbf415c0260a6b9ba0acd3db06472dc86f562cafd14262a4f1b33fb0e89fe1b2",
+            "internalId": 86,
+            "name": "Toshkent sh, Yangiobod BXM",
+            "qpId": "29",
+            "timeZone": "Asia/Tashkent"
+        }, {
+            "custom": "{\"address\":{\"uz\":{\"address1\":\"100175, Toshkent sh., Olmazor tumani\",\"address2\":\"Paxta MFY, Qoraqamish 2, 54 uy\",\"city\":\"Toshkent shaxri\",\"country\":\"O'zbekiston\"},\"ru\":{\"address1\":\"100175, г.Ташкент, Алмазарский р.\",\"address2\":\"МСГ Пахта, Каракамыш 2, дом 54\",\"city\":\"город Ташкент\",\"country\":\"Узбекистан\"},\"en\":{\"address1\":\"100175, Tashkent city, Almazar distr.\",\"address2\":\"MCA Pakhta, Karakamysh 2, 54 building\",\"city\":\"Tashkent city\",\"country\":\"Uzbekistan\"}},\"names\":{\"uz\":\"Olmazor BXM\",\"ru\":\"Алмазар ЦБУ\",\"en\":\"Almazar BSC\"}}",
+            "id": "44c16221129e4993945fa5034eb698c155c7f63eb051d4f0fcd5259584477e32",
+            "internalId": 99,
+            "name": "Toshkent sh, Olmazor BXM",
+            "qpId": "48",
+            "timeZone": "Asia/Tashkent"
+        }],
+        "fullName": "NBU/Toshkent shaxri",
+        "id": 100,
+        "name": "Toshkent shaxri",
+        "subGroupIds": []
+    }, {
+        "branchIds": [16, 38, 34],
+        "branches": [{
+            "addressCity": "Toshkent viloyati",
+            "addressCountry": "O'zbekiston",
+            "custom": "{\"names\":{\"ru\":\"Нурафшан амалиёт ЦБУ\",\"en\":\"Nurafshan amaliyot BSC\",\"uz\":\"Nurafshon amaliyot BXM\"},\"address\":{\"en\":{\"address1\":\"110000, Tashkent region, Nurafshan city\",\"address2\":\"MCA Abad, Tashkent yuli street 10\",\"city\":\"Tashkent region\",\"country\":\"Uzbekistan\"},\"ru\":{\"address1\":\"110000, Ташкентская область, г.Нурафшон\",\"address2\":\"МСГ Обод, ул. Ташкент йули, дом 10\",\"city\":\"Ташкентская область\",\"country\":\"Узбекистан\"},\"uz\":{\"address1\":\"110000, Toshkent viloyati, Nurafshon sh.\",\"address2\":\"Obod MFY, Toshkent yoli kochasi, 10 uy\",\"city\":\"Toshkent viloyati\",\"country\":\"O'zbekiston\"}}}",
+            "id": "8211080f0edb0745ee73a39e81ccd54e41825c3062be1b51f5f482fbe2166edd",
+            "internalId": 88,
+            "name": "Toshkent v, Nurafshon amaliyot BXM",
+            "qpId": "16",
+            "timeZone": "Asia/Tashkent"
+        }, {
+            "addressCity": "Toshkent viloyati",
+            "addressCountry": "O'zbekiston",
+            "custom": "{\"names\":{\"ru\":\"Бекабад ЦБУ\",\"en\":\"Bekabad BSC\",\"uz\":\"Bekobod BXM\"},\"address\":{\"en\":{\"address1\":\"110511, Tashkent region, Bekabad city\",\"address2\":\"MCA Bulok-Arik, Shakhriabad street 22 \",\"city\":\"Tashkent region\",\"country\":\"Uzbekistan\"},\"ru\":{\"address1\":\"110511, Ташкентская область, г.Бекабад\",\"address2\":\"МСГ Булок-Арик, ул.Шахриобод, дом 22\",\"city\":\"Ташкентская область\",\"country\":\"Узбекистан\"},\"uz\":{\"address1\":\"110511, Toshkent viloyati, Bekobod sh.\",\"address2\":\"Buloq-Ariq MFY, Shahriobod kochasi, 22 uy \",\"city\":\"Toshkent viloyati\",\"country\":\"O'zbekiston\"}}}",
+            "id": "1b0ad28aedc856ecb296ba826fb67e520d1005d98b07c1715ece4311d3188960",
+            "internalId": 87,
+            "name": "Toshkent v, Bekobod BXM",
+            "qpId": "38",
+            "timeZone": "Asia/Tashkent"
+        }, {
+            "addressCity": "Toshkent viloyati",
+            "addressCountry": "O'zbekiston",
+            "custom": "{\"names\":{\"ru\":\"Янгиюль ЦБУ\",\"en\":\"Yangiyul BSC\",\"uz\":\"Yangiyo‘l BXM\"},\"address\":{\"en\":{\"address1\":\"112008, Tashkent region, Yangiyul district, Yangiyul city\",\"address2\":\"MCA Mevazar, Samarkand street 178\",\"city\":\"Tashkent region\",\"country\":\"Uzbekistan\"},\"ru\":{\"address1\":\"112008, Ташкентская область, Янгиюльский р., г.Янгиюль\",\"address2\":\"МСГ Мевазор, ул.Самаркандская, дом 178\",\"city\":\"Ташкентская область\",\"country\":\"Узбекистан\"},\"uz\":{\"address1\":\"112008, Toshkent viloyati, Yangiyol tumani, Yangiyol sh.\",\"address2\":\"Mevazor MFY, Samarqand kochasi, 178 uy\",\"city\":\"Toshkent viloyati\",\"country\":\"O'zbekiston\"}}}",
+            "id": "45181410c9d688ce49835f4da4d0b7093c1950f56b10985635c57308727585cd",
+            "internalId": 89,
+            "name": "Toshkent v, Yangiyo'l BXM",
+            "qpId": "34",
+            "timeZone": "Asia/Tashkent"
+        }],
+        "fullName": "NBU/Toshkent viloyati",
+        "id": 150,
+        "name": "Toshkent viloyati",
+        "subGroupIds": []
+    }, {
+        "branchIds": [40],
+        "branches": [{
+            "custom": "{\"names\":{\"ru\":\"Гулистан амалиёт ЦБУ\",\"en\":\"Gulistan amaliyot BSC\",\"uz\":\"Guliston amaliyot BXM\"},\"address\":{\"uz\":{\"address1\":\"120100, Sirdaryo viloyati, Guliston sh.\",\"address2\":\"Taraqqiyot MFY, Birlashgan kochasi, 8-uy\",\"city\":\"Sirdaryo viloyati\",\"country\":\"O'zbekiston\"},\"ru\":{\"address1\":\"120100, Сырдарьинская область, г. Гулистан\",\"address2\":\"МСГ Тараккиёт, ул. Бирлашган, дом-8\",\"city\":\"Сырдарьинская область\",\"country\":\"Узбекистан\"},\"en\":{\"address1\":\"120100, Syrdarya region, Gulistan city\",\"address2\":\"MCA Tarakkiyot, Birlashgan street 8\",\"city\":\"Syrdarya region\",\"country\":\"Uzbekistan\"}}}",
+            "id": "777df9608c9c4a1437ea747c6f1dbb88d87161b67fa6e329900adaeb0b9cf75a",
+            "internalId": 76,
+            "name": "Sirdaryo v, Guliston amaliyot BXM",
+            "qpId": "40",
+            "timeZone": "Asia/Tashkent"
+        }],
+        "fullName": "NBU/Sirdaryo viloyati",
+        "id": 351,
+        "name": "Sirdaryo viloyati",
+        "subGroupIds": []
+    }, {
+        "branchIds": [51, 32],
+        "branches": [{
+            "addressCity": "Jizzax",
+            "addressCountry": "O'zbekiston",
+            "custom": "{\"address\":{\"uz\":{\"address1\":\"130100, Jizzax viloyati, Jizzax sh.\",\"address2\":\"Sayiljoy MFY, Sh.Rashidov shox ko‘chasi 20-uy\",\"city\":\"Jizzax viloyati\",\"country\":\"O'zbekiston\"},\"ru\":{\"address1\":\"130100, Джизакская область, г. Джизак\",\"address2\":\"МСГ Сайилжой, ул. Ш. Рашидова, дом 20\",\"city\":\"Джизакская область\",\"country\":\"Узбекистан\"},\"en\":{\"address1\":\"130100, Jizzakh region, Jizzakh city\",\"address2\":\"MCA Sayiljoy, Sh.Rashidov street 20-uy\",\"city\":\"Jizzakh region\",\"country\":\"Uzbekistan\"}},\"names\":{\"uz\":\"Jizzax amaliyot BXM\",\"ru\":\"Джизак амалиёт ЦБУ\",\"en\":\"Jizzakh amaliyot BSC\"}}",
+            "id": "64d662e49c90daeec67553987f61e0c9bd22d355fd9cb5d0b527e6228364c567",
+            "internalId": 102,
+            "name": "Jizzax v, Jizzax amaliyot BXM",
+            "qpId": "51",
+            "timeZone": "Asia/Tashkent"
+        }, {
+            "addressCity": "Jizzax",
+            "addressCountry": "O'zbekiston",
+            "custom": "{\"names\":{\"ru\":\"Мирзачуль ЦБУ\",\"en\":\"Mirzachul BSC\",\"uz\":\"Mirzacho‘l BXM\"},\"address\":{\"en\":{\"address1\":\" 130300, Jizzakh region, Mirzachul distr., Gagarin city\",\"address2\":\"MCA Galaba, Uzbekistan street 106\",\"city\":\"Jizzakh region\",\"country\":\"Uzbekistan\"},\"ru\":{\"address1\":\"130300, Джизакская область, Мирзачульский р., г.Гагарин\",\"address2\":\"МСГ Галаба, ул. Узбекистанская, дом 106\",\"city\":\"Джизакская область\",\"country\":\"Узбекистан\"},\"uz\":{\"address1\":\"130300, Jizzax viloyati, Mirzachol tumani, Gagarin sh.\",\"address2\":\"Galaba MFY, Ozbekiston kochasi, 106 uy\",\"city\":\"Jizzax viloyati\",\"country\":\"O'zbekiston\"}}}",
+            "id": "10316e4a940fc63b52901b22f9cafda9e8894c5856f7dc08f97552b0f0194225",
+            "internalId": 66,
+            "name": "Jizzax v, Mirzacho'l BXM",
+            "qpId": "32",
+            "timeZone": "Asia/Tashkent"
+        }],
+        "fullName": "NBU/Jizzax viloyati",
+        "id": 304,
+        "name": "Jizzax viloyati",
+        "subGroupIds": []
+    }, {
+        "branchIds": [30, 6, 31, 55, 58],
+        "branches": [{
+            "addressCity": "Samarqand",
+            "addressCountry": "O'zbekiston",
+            "custom": "{\"names\":{\"ru\":\"Регистан ЦБУ\",\"en\":\"Registan BSC\",\"uz\":\"Rеgiston BXM\"},\"address\":{\"en\":{\"address1\":\"140105, Samarkand region, Samarkand city\",\"address2\":\"MCA BogI Timur, Firdavsi street 7\",\"city\":\"Samarkand region\",\"country\":\"Uzbekistan\"},\"ru\":{\"address1\":\"140105, Самаркандская область, г.Самарканд\",\"address2\":\"МСГ Боги Тимур, ул. Фирдавсий, дом 7\",\"city\":\"Самаркандская область\",\"country\":\"Узбекистан\"},\"uz\":{\"address1\":\"140105, Samarqand viloyati, Samarqand sh.\",\"address2\":\"BogI Timur MFY, Firdavsiy kochasi, 7 uy\",\"city\":\"Samarqand viloyati\",\"country\":\"O'zbekiston\"}}}",
+            "id": "f25f4963df7c3b180e572772a7760e6c17598adca42445e3b978c859f395f6e8",
+            "internalId": 73,
+            "name": "Samarqand v, Registon BXM",
+            "qpId": "30",
+            "timeZone": "Asia/Tashkent"
+        }, {
+            "addressCity": "Samarqand",
+            "addressCountry": "O'zbekiston",
+            "custom": "{\"names\":{\"ru\":\"Самарканд амалиёт ЦБУ\",\"en\":\"Samarkand amaliyot BSC\",\"uz\":\"Samarqand amaliyot BXM\"},\"address\":{\"en\":{\"address1\":\"140105, Samarkand region, Samarkand city\",\"address2\":\"MCA Mustakillik, Mirzo Ulugbek street 1 \",\"city\":\"Samarkand region\",\"country\":\"Uzbekistan\"},\"ru\":{\"address1\":\"140105, Самаркандская область, г.Самарканд\",\"address2\":\"МСГ Мустакиллик, ул. Мирзо Улугбека , дом 1\",\"city\":\"Самаркандская область\",\"country\":\"Узбекистан\"},\"uz\":{\"address1\":\"140105, Samarqand viloyati, Samarqand sh.\",\"address2\":\"Mustaqillik MFY, Mirzo Ulugbek kochasi, 1 uy\",\"city\":\"Samarqand viloyati\",\"country\":\"O'zbekiston\"}}}",
+            "id": "d39da703bee3f0fcd2d74d2c4665081565f48828ebad626bd4fd03ccbefd4392",
+            "internalId": 74,
+            "name": "Samarqand v, Samarqand amaliyot BXM",
+            "qpId": "6",
+            "timeZone": "Asia/Tashkent"
+        }, {
+            "addressCity": "Samarqand",
+            "addressCountry": "O'zbekiston",
+            "custom": "{\"names\":{\"ru\":\"Ургут ЦБУ\",\"en\":\"Urgut BSC\",\"uz\":\"Urgut BXM\"},\"address\":{\"en\":{\"address1\":\"141600, Samarkand region, Urgut distr.\",\"address2\":\"Urgut city, A.Navoi street 176\",\"city\":\"Samarkand region\",\"country\":\"Uzbekistan\"},\"ru\":{\"address1\":\"141600, Самаркандская область, Ургутский р.\",\"address2\":\"г.Ургут, ул. А.Навои, дом 176\",\"city\":\"Самаркандская область\",\"country\":\"Узбекистан\"},\"uz\":{\"address1\":\"141600, Samarqand viloyati, Urgut t.\",\"address2\":\"Urgut sh., A.Navoiy kochasi, 176 uy\",\"city\":\"Samarqand viloyati\",\"country\":\"O'zbekiston\"}}}",
+            "id": "ffad259f194c539b41e6c0654a5897c141f28b293a296b0d313f52bc27bbc071",
+            "internalId": 75,
+            "name": "Samarqand v, Urgut BXM",
+            "qpId": "31",
+            "timeZone": "Asia/Tashkent"
+        }, {
+            "addressCity": "Samarqand",
+            "addressCountry": "O'zbekiston",
+            "custom": "{\"address\":{\"ru\":{\"address1\":\"140500, Самаркандская область, Пастдаргомский р., г.Жума\",\"address2\":\"МСГ Хаузак, ул. Самаркандская, дом 87\",\"city\":\"Самаркандская область\",\"country\":\"Узбекистан\"},\"en\":{\"address1\":\"140500, Samarkand region, Pastdargom distr., Juma city\",\"address2\":\"MCA Khauzak, Samarkand street 87\",\"city\":\"Samarkand region\",\"country\":\"Uzbekistan\"},\"uz\":{\"address1\":\"140500, Samarqand viloyati, Pastdargom tumani, Juma sh.\",\"address2\":\"Xauzak MFY, Samarqand kochasi, 87 uy\",\"city\":\"Samarqand viloyati\",\"country\":\"O'zbekiston\"}},\"names\":{\"ru\":\"Пастдаргом ЦБУ\",\"en\":\"Pastdargom BSC\",\"uz\":\"Pastdarg‘om BXM\"}}",
+            "id": "f24e563aff52c801cb340aa1bb338343aa897788df0aafcb430dfc97094c7f5e",
+            "internalId": 104,
+            "name": "Samarqand v, Pastdarg’om BXM",
+            "qpId": "55",
+            "timeZone": "Asia/Tashkent"
+        }, {
+            "custom": "{\"address\":{\"en\":{\"address1\":\"140400, Samarkand region, Jambay distr., Jambay city\",\"address2\":\"MCA A.Kurbanov, Saroy street 10\",\"city\":\"Samarkand region\",\"country\":\"Uzbekistan\"},\"uz\":{\"address1\":\"140400, Samarqand viloyati, Jomboy t., Jomboy sh.\",\"address2\":\"A.Qurbonov MFY, Saroy kochasi, 10 uy\",\"city\":\"Samarqand viloyati\",\"country\":\"O'zbekiston\"},\"ru\":{\"address1\":\"140400, Самаркандская область, Жамбайский р., г. Жамбай\",\"address2\":\"МСГ А.Курбанова,  ул.Сарой, дом 10\",\"city\":\"Самаркандская область\",\"country\":\"Узбекистан\"}},\"names\":{\"en\":\"Jambay BSC\",\"uz\":\"Jomboy BXM\",\"ru\":\"Жамбай ЦБУ\"}}",
+            "id": "9819e6a7f31ee0293545be70fb7955c88da793bcd47abf9d793cc143df0b7959",
+            "internalId": 105,
+            "name": "Samarqand v, Jomboy BXM",
+            "qpId": "58",
+            "timeZone": "Asia/Tashkent"
+        }],
+        "fullName": "NBU/Samarqand viloyati",
+        "id": 303,
+        "name": "Samarqand viloyati",
+        "subGroupIds": []
+    }, {
+        "branchIds": [1, 25],
+        "branches": [{
+            "addressCity": "Qashqadaryo",
+            "addressCountry": "O'zbekiston",
+            "custom": "{\"names\":{\"ru\":\"Карши амалиёт ЦБУ\",\"en\":\"Karshi amaliyot BSC\",\"uz\":\"Qarshi amaliyot BXM\"},\"address\":{\"en\":{\"address1\":\"180100, Kashkadarya region, Karshi city\",\"address2\":\"MCA Mustakillik, I.Karimov street 219\",\"city\":\"Kashkadarya region\",\"country\":\"Uzbekistan\"},\"ru\":{\"address1\":\"180100, Кашкадарьинская область, г.Карши\",\"address2\":\"МСГ Мустакиллик, ул. И.Каримова, дом 219\",\"city\":\"Кашкадарьинский область\",\"country\":\"Узбекистан\"},\"uz\":{\"address1\":\"180100, Qashqadaryo viloyati, Qarshi sh.\",\"address2\":\"Mustaqillik MFY, I.Karimov kochasi, 219 uy\",\"city\":\"Qashqadaryo viloyati\",\"country\":\"O'zbekiston\"}}}",
+            "id": "0a27f1cb9c8ee47207e84070a220b4a77ee969d7cbda5010e6576f78673248b2",
+            "internalId": 69,
+            "name": "Qashqadaryo v, Qarshi amaliyot BXM",
+            "qpId": "1",
+            "timeZone": "Asia/Tashkent"
+        }, {
+            "addressCity": "Qashqadaryo",
+            "addressCountry": "O'zbekiston",
+            "custom": "{\"names\":{\"ru\":\"Шахрисабз ЦБУ\",\"en\":\"Shaxrisabz BSC\",\"uz\":\"Shahrisabz BXM\"},\"address\":{\"en\":{\"address1\":\"181300, Kashkadarya region, Shakhrisabz distr., Shakhrisabz city\",\"address2\":\"MCA Galaba, Ipak yuli street 100\",\"city\":\"Kashkadarya region\",\"country\":\"Uzbekistan\"},\"ru\":{\"address1\":\"181300, Кашкадарьинская область, Шахрисабзский р., г.Шахрисабз\",\"address2\":\"МСГ Галаба, ул. Ипак йули, дом 100\",\"city\":\"Кашкадарьинская область\",\"country\":\"Узбекистан\"},\"uz\":{\"address1\":\"181300, Qashqadaryo viloyati, Shaxrisabz tumani, Shaxrisabz sh.\",\"address2\":\"Galaba MFY, Ipak yoli kochasi, 100 uy\",\"city\":\"Qashqadaryo viloyati\",\"country\":\"O'zbekiston\"}}}",
+            "id": "03f34593a8a68049536d5feb9b5a3e1c042c909fcd3723b39bb32db05b0bec41",
+            "internalId": 70,
+            "name": "Qashqadaryo v, Shaxrisabz BXM",
+            "qpId": "25",
+            "timeZone": "Asia/Tashkent"
+        }],
+        "fullName": "NBU/Qashqadaryo viloyati",
+        "id": 300,
+        "name": "Qashqadaryo viloyati",
+        "subGroupIds": []
+    }, {
+        "branchIds": [35, 33, 4],
+        "branches": [{
+            "addressCity": "Buxoro",
+            "addressCountry": "O'zbekiston",
+            "custom": "{\"names\":{\"ru\":\"Гиждуван ЦБУ\",\"en\":\"Gijduvan BSC\",\"uz\":\"G‘ijduvon BXM\"},\"address\":{\"en\":{\"address1\":\"200500, Bukhara region, Gijduvan distr.\",\"address2\":\"Gijduvan city, B.Nakshband street 45\",\"city\":\"Bukhara region\",\"country\":\"Uzbekistan\"},\"ru\":{\"address1\":\"200500, Бухарская область, Гиждуванский р.\",\"address2\":\"г.Гиждуван, ул. Б.Накшбанд, дом 45\",\"city\":\"Бухарская область\",\"country\":\"Узбекистан\"},\"uz\":{\"address1\":\"200500, Buxoro viloyati, Gijduvon tumani\",\"address2\":\"Gijduvon sh., B.Naqshband kochasi, 45 uy\",\"city\":\"Buxoro viloyati\",\"country\":\"O'zbekiston\"}}}",
+            "id": "6178f7c4375ccb8e9fadb46090f6d5c5238a43cc6f17ae00647f3e33c3608391",
+            "internalId": 61,
+            "name": "Buxoro v, G'ijduvon BXM",
+            "qpId": "35",
+            "timeZone": "Asia/Tashkent"
+        }, {
+            "addressCity": "Buxoro",
+            "addressCountry": "O'zbekiston",
+            "custom": "{\"names\":{\"ru\":\"Каган ЦБУ\",\"en\":\"Kagan BSC\",\"uz\":\"Kogon BXM\"},\"address\":{\"en\":{\"address1\":\"200702, Bukhara region, Kagan distr.\",\"address2\":\"Kagan city, MCA Mirzo Ulugbek, Karaulbazar street 1\",\"city\":\"Bukhara region\",\"country\":\"Uzbekistan\"},\"ru\":{\"address1\":\"200702, Бухарская область, Каганский р.\",\"address2\":\"г.Каган, МСГ Мирзо-Улугбек, ул. Караулбазар, дом 1\",\"city\":\"Бухарская область\",\"country\":\"Узбекистан\"},\"uz\":{\"address1\":\"200702, Buxoro viloyati, Kogon tumani\",\"address2\":\"Kogon sh., Mirzo Ulugbek MFY, Qorovulbozor shox kochasi, 1-uy\",\"city\":\"Buxoro viloyati\",\"country\":\"O'zbekiston\"}}}",
+            "id": "34ec7f9c06ef168441918d1399e2ddce837a38dc32b074cf091488287d9eca88",
+            "internalId": 62,
+            "name": "Buxoro v, Kogon BXM",
+            "qpId": "33",
+            "timeZone": "Asia/Tashkent"
+        }, {
+            "addressCity": "Buxoro",
+            "addressCountry": "O'zbekiston",
+            "custom": "{\"names\":{\"ru\":\"Бухара амалиёт ЦБУ\",\"en\":\"Bukhara amaliyot BSC\",\"uz\":\"Buxoro amaliyot BXM\"},\"address\":{\"en\":{\"address1\":\"200114, Bukhara region, Bukhara city\",\"address2\":\"MCA Zarafshan, Mukhammad Ikbol street 3\",\"city\":\"Bukhara region\",\"country\":\"Uzbekistan\"},\"ru\":{\"address1\":\"200114, Бухарская область, г.Бухара\",\"address2\":\"МСГ Зарафшан, ул. Мухаммад Икбола, дом 3\",\"city\":\"Бухарская область\",\"country\":\"Узбекистан\"},\"uz\":{\"address1\":\"200114, Buxoro viloyati, Buxoro sh.\",\"address2\":\"Zarafshon MFY, Muxammad Iqbol kochasi, 3 uy\",\"city\":\"Buxoro viloyati\",\"country\":\"O'zbekiston\"}}}",
+            "id": "dc7360363685c1c52f61584f8554babc20c3d6217c5b5aacd9c00c17d1b22de2",
+            "internalId": 93,
+            "name": "Buxoro v, Buxoro amaliyot BXM",
+            "qpId": "4",
+            "timeZone": "Asia/Tashkent"
+        }],
+        "fullName": "NBU/Buhoro viloyati",
+        "id": 305,
+        "name": "Buhoro viloyati",
+        "subGroupIds": []
+    }, {
+        "branchIds": [8, 22, 57],
+        "branches": [{
+            "addressCity": "Surxondaryo",
+            "addressCountry": "O'zbekiston",
+            "custom": "{\"names\":{\"ru\":\"Термез амалиёт ЦБУ\",\"en\":\"Termez amaliyot BSC\",\"uz\":\"Tеrmiz amaliyot BXM\"},\"address\":{\"en\":{\"address1\":\"190100, Surkhandarya region, Termez city\",\"address2\":\"MCA Dustlik, At-Termezi street 1а\",\"city\":\"Surkhandarya region\",\"country\":\"Uzbekistan\"},\"ru\":{\"address1\":\"190100, Сурхандарьинская область, г.Термез\",\"address2\":\"МСГ Дустлик, ул. Ат-Термизий, дом 1а\",\"city\":\"Сурхандарьинская область\",\"country\":\"Узбекистан\"},\"uz\":{\"address1\":\"190100, Surxondaryo viloyati, Termiz sh.\",\"address2\":\"Dostlik MFY, At-Termiziy kochasi, 1а uy\",\"city\":\"Surxondaryo viloyati\",\"country\":\"O'zbekiston\"}}}",
+            "id": "c15463d18aa034941e331fb3bb4b10db80888a4a507ce53cc23a024ccf9bee09",
+            "internalId": 78,
+            "name": "Surxondaryo v, Termiz amaliyot BXM",
+            "qpId": "8",
+            "timeZone": "Asia/Tashkent"
+        }, {
+            "addressCity": "Surxondaryo",
+            "addressCountry": "O'zbekiston",
+            "custom": "{\"names\":{\"ru\":\"Денау ЦБУ\",\"en\":\"Kumkurgan BSC\",\"uz\":\"Denov BXM\"},\"address\":{\"en\":{\"address1\":\"190503, Surkhandarya region, Denau distr., Denau city\",\"address2\":\"MCA Yangi khayot, Mustakillik street 47\",\"city\":\"Surkhandarya region\",\"country\":\"Uzbekistan\"},\"ru\":{\"address1\":\"190503, Сурхандарьинская область, Денауский р., г.Денау\",\"address2\":\"МСГ Янги хайот, ул. Мустакиллик, дом 47\",\"city\":\"Сурхандарьинская область\",\"country\":\"Узбекистан\"},\"uz\":{\"address1\":\"190900, Surxondaryo viloyati, Qumqurgon t., Qumqurgon sh.\",\"address2\":\"Yangi shaxar MFY, Beruniy kochasi, 6 uy\",\"city\":\"Surxondaryo viloyati\",\"country\":\"O'zbekiston\"}}}",
+            "id": "2379f44b7f827e528ed1fdd44013df9e7301623f393547d97dc0ca0420088678",
+            "internalId": 77,
+            "name": "Surxondaryo v, Denov BXM",
+            "qpId": "22",
+            "timeZone": "Asia/Tashkent"
+        }, {
+            "custom": "{\"address\":{\"ru\":{\"address1\":\"190900, Сурхандарьинская область, Кумкурганский р., г.Кумкурган\",\"address2\":\"МСГ Янги Шахар, ул. Беруни, дом 6\",\"city\":\"Сурхандарьинская область\",\"country\":\"Узбекистан\"},\"en\":{\"address1\":\"190900, Surkhandarya region, Kumkurgan distr.\",\"address2\":\"Kumkurgan city, MCA Yangi shakhar, Beruni street 6 \",\"city\":\"Surkhandarya region\",\"country\":\"Uzbekistan\"},\"uz\":{\"address1\":\"190503, Surxondaryo viloyati, Denov t., Denov sh.\",\"address2\":\"Yangi hayot MFY, Mustaqillik kochasi, 47 uy\",\"city\":\"Surxondaryo viloyati\",\"country\":\"O'zbekiston\"}},\"names\":{\"ru\":\"Кумкурган ЦБУ\",\"en\":\"Kumkurgan BSC\",\"uz\":\"Qumqo‘rg‘on BXM\"}}",
+            "id": "196f79db4a06ea0a0261a790bdc8b5c2d2f6c9cec0df8174cebd0e67b814180c",
+            "internalId": 106,
+            "name": "Surxondaryo v, Qumqo’rg’on BXM",
+            "qpId": "57",
+            "timeZone": "Asia/Tashkent"
+        }],
+        "fullName": "NBU/Surxondaryo viloyati",
+        "id": 250,
+        "name": "Surxondaryo viloyati",
+        "subGroupIds": []
+    }, {
+        "branchIds": [47, 19],
+        "branches": [{
+            "custom": "{\"address\":{\"en\":{\"address1\":\"210900, Navoi region, Uchkuduk distr., Uchkuduk city\",\"address2\":\"MCA Dustlik, Amir Temur street 45\",\"city\":\"Navoiy region\",\"country\":\"Uzbekistan\"},\"uz\":{\"address1\":\"210400, Navoiy viloyati, Qiziltepa tumani, Qiziltepa sh.\",\"address2\":\"O'zbekiston MFY, Ozbekiston shox kochasi, 35 uy\",\"city\":\"Navoiy viloyati\",\"country\":\"O'zbekiston\"},\"ru\":{\"address1\":\"210900, Навоийская область, Учкудукский р., г.Учкудук\",\"address2\":\"МСГ Дустлик, ул. Амир Темура, дом 45\",\"city\":\"Навоийская область\",\"country\":\"Узбекистан\"}},\"names\":{\"en\":\"Uchkuduk BSC\",\"uz\":\"Uchquduq BXM\",\"ru\":\"Учкудук ЦБУ\"}}",
+            "id": "56d0d053397bba88b313162b2334e6b97e4809b5a41100be4734de7c5634688e",
+            "internalId": 98,
+            "name": "Navoiy v, Uchquduq BXM",
+            "qpId": "47",
+            "timeZone": "Asia/Tashkent"
+        }, {
+            "addressCity": "Navoi",
+            "addressCountry": "O'zbekiston",
+            "custom": "{\"names\":{\"ru\":\"Навои амалиёт ЦБУ\",\"en\":\"Navoi amaliyot BSC\",\"uz\":\"Navoiy amaliyot BXM\"},\"address\":{\"en\":{\"address1\":\"210100, Navoiy viloyati, Navoiy sh.\",\"address2\":\"Zarafshon MFY, Ibn Sino kochasi, 14 uy\",\"city\":\"Navoi region\",\"country\":\"Uzbekistan\"},\"ru\":{\"address1\":\"210100, Навоийская область, г.Навои\",\"address2\":\"МСГ Зарафшан,ул. Ибн Сино, дом 14\",\"city\":\"Навоийская область\",\"country\":\"Узбекистан\"},\"uz\":{\"address1\":\"210100, Navoiy viloyati, Navoiy sh.\",\"address2\":\"Zarafshon MFY, Ibn Sino kochasi, 14 uy\",\"city\":\"Navoiy viloyati\",\"country\":\"O'zbekiston\"}}}",
+            "id": "31c7ae03e19c4336ab6a8d8d2c2867aa2753ca88e3dbe7d42ed8dba78c973148",
+            "internalId": 68,
+            "name": "Navoiy v, Navoiy amaliyot BXM",
+            "qpId": "19",
+            "timeZone": "Asia/Tashkent"
+        }],
+        "fullName": "NBU/Navoiy viloyati",
+        "id": 200,
+        "name": "Navoiy viloyati",
+        "subGroupIds": []
+    }, {
+        "branchIds": [21, 53],
+        "branches": [{
+            "addressCity": "Xorazm",
+            "addressCountry": "O'zbekiston",
+            "custom": "{\"names\":{\"ru\":\"Хорезм амалиёт ЦБУ\",\"en\":\"Khorezm amaliyot BSC\",\"uz\":\"Xorazm amaliyot BXM\"},\"address\":{\"en\":{\"address1\":\"220100, Khorezm region, Urgench city\",\"address2\":\"Istiklol MCA, Al-Khorezmiy street 65 \",\"city\":\"Khorezm region\",\"country\":\"Uzbekistan\"},\"ru\":{\"address1\":\"220100, Хорезмская область, г.Ургенч\",\"address2\":\"МСГ Истиклол, ул. Аль-Хорезми, дом 65\",\"city\":\"Хорезмская область\",\"country\":\"Узбекистан\"},\"uz\":{\"address1\":\"220100, Xorazm viloyati, Urgench sh.\",\"address2\":\"Istiqlol MFY, Al-Xorazmiy kochasi, 65 uy\",\"city\":\"Xorazm viloyati\",\"country\":\"O'zbekiston\"}}}",
+            "id": "025fbc8e36d5fe0353d45d3c5ee09db163e83e7b5d216a4e45f32f8366fda89d",
+            "internalId": 90,
+            "name": "Xorazm v, Urganch amaliyot BXM",
+            "qpId": "21",
+            "timeZone": "Asia/Tashkent"
+        }, {
+            "addressCity": "Xorazm",
+            "addressCountry": "O'zbekiston",
+            "id": "98f501aa5c87f10ca0b09edfe5ef833edc04904f999bc95645d5de26b56428ec",
+            "internalId": 108,
+            "name": "Xorazm v, Hazorasp BXM",
+            "qpId": "53",
+            "timeZone": "Asia/Tashkent"
+        }],
+        "fullName": "NBU/Xorazm viloyati",
+        "id": 201,
+        "name": "Xorazm viloyati",
+        "subGroupIds": []
+    }, {
+        "branchIds": [26, 36],
+        "branches": [{
+            "addressCity": "Qoraqalpog'iston Respublikasi",
+            "addressCountry": "O'zbekiston",
+            "custom": "{\"names\":{\"ru\":\"Кунграт ЦБУ\",\"en\":\"Kungirat BSC\",\"uz\":\"Qo‘ng‘irot BXM\"},\"address\":{\"en\":{\"address1\":\"230600, Republic of Karakalpakstan, Kungrat distr.\",\"address2\":\"MCA Azatlyk, Garezsizlik street 14\",\"city\":\"Republic of Karakalpakstan\",\"country\":\"Uzbekistan\"},\"ru\":{\"address1\":\"230100, Республика Каракалпакстан, Кунгратский р-н\",\"address2\":\"МСГ Азатлык, ул. Гарезсизлик, дом-14\",\"city\":\"Республика Каракалпакстан\",\"country\":\"Узбекистан\"},\"uz\":{\"address1\":\"230600, Qoraqalpogiston Respublikasi, Qongirot tumani\",\"address2\":\"Azatliq MFY, Garezsizlik kochasi, 14-uy\",\"city\":\"Qoraqalpog'iston Respublikasi\",\"country\":\"O'zbekiston\"}}}",
+            "id": "fed0e7586e9325e4bcaf73099bd4bbab1bd3caf53fa5461a2c1f3fea97f92986",
+            "internalId": 71,
+            "name": "Qoraqalpog'iston R, Qo'ng'irot BXM",
+            "qpId": "26",
+            "timeZone": "Asia/Tashkent"
+        }, {
+            "addressCity": "Qoraqalpog'iston Respublikasi",
+            "addressCountry": "O'zbekiston",
+            "custom": "{\"names\":{\"ru\":\"Турткуль ЦБУ\",\"en\":\"Turtkul BSC\",\"uz\":\"To‘rtko‘l BXM\",\"\":\"\"},\"address\":{\"en\":{\"address1\":\"231200, Republic of Karakalpakstan, Turtkul district, Turtkul city\",\"address2\":\"MCA Tashkent, Turtkul street 56\",\"city\":\"Republic of Karakalpakstan\",\"country\":\"Uzbekistan\"},\"ru\":{\"address1\":\"231200, Республика Каракалпакстан, Турткульский р., г.Турткуль\",\"address2\":\"МСГ Ташкент, ул. Турткуль, дом 56\",\"city\":\"Республика Каракалпакстан\",\"country\":\"Узбекистан\"},\"uz\":{\"address1\":\"231200, Qoroqolpogiston Respublikasi, Tortkol t., Tortkol sh.\",\"address2\":\"Toshkent MFY, Tortkol kochasi, 56 uy\",\"city\":\"Qoraqalpog'iston Respublikasi\",\"country\":\"O'zbekiston\"},\"\":{\"address1\":\"\",\"address2\":\"\",\"city\":\"\",\"country\":\"\"}}}",
+            "id": "78d3f0ce7503ca310f4c09b322f226dba4f13d7327f14da5667f04f0a7f886ac",
+            "internalId": 72,
+            "name": "Qoraqalpog'iston R, To'rtko'l BXM",
+            "qpId": "36",
+            "timeZone": "Asia/Tashkent"
+        }],
+        "fullName": "NBU/Qoraqalpog'iston Respublikasi",
+        "id": 301,
+        "name": "Qoraqalpog'iston Respublikasi",
+        "subGroupIds": []
+    }]
+}
